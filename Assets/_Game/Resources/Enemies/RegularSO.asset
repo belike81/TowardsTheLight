@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb5c23fd834c21743bf7677711b06d5e, type: 3}
+  m_Name: RegularSO
+  m_EditorClassIdentifier: 
+  _stats:
+    Speed: 5
+    Health: 30
+    Power: 300
+  Prefab: {fileID: 5920235443612141813, guid: a526cd09a4fa34385a60a5a145fb7dfb, type: 3}
+  Description: This is a basic enemy
+  MenuSprite: {fileID: 0}
+  EnemyType: 0

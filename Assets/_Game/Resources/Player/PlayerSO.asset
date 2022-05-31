@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44850d42b4f946ed8cdd529189e57787, type: 3}
+  m_Name: PlayerSO
+  m_EditorClassIdentifier: 
+  _stats:
+    Speed: 8
+    Health: 100
+    Power: 50
+  Prefab: {fileID: 723022212, guid: 8d418b7daaa2b447cbdd8dcedc7b34c8, type: 3}
+  Description: This is the main plaer
+  MenuSprite: {fileID: 0}
